@@ -1,6 +1,6 @@
 <?php
 
-    $texto = "Hello World, Leo Rici!";
+    $texto = "Hello World!";
 ?>
 
 <!DOCTYPE html>
